@@ -1,1 +1,1 @@
-vless://40a6a0ed-5ed4-4962-a93f-9c78f2565379@65.10.188.98:4080?security=&encryption=none&headerType=&type=tcp#a
+vless://CNT-Cafe@104.253.25.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IgE3YVskwBHPUSDq-3y99G46ayFewg7WG2XHK28&security=reality&sid=19&sni=www.hcaptcha.com&spx=%2FQRjPQH7QFcCn6tn&type=tcp#👉🆔@Uping:51.8ms
